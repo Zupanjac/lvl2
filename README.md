@@ -26,7 +26,7 @@ Two quick start options are available:
 * Download and install [pyhton 2.7](https://www.python.org/downloads/)
 
 ## How to run
-* [Instructions] https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true
+* [Instructions](https://docs.google.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=truei)
 
 ## Creator
 [Zupanjac](https://github.com/Zupanjac)
